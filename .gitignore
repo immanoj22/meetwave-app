@@ -1,0 +1,17 @@
+node_modules/
+build/
+.env
+.env.*
+!.env.example
+*.keystore
+*.jks
+google-services.json
+GoogleService-Info.plist
+*firebase*adminsdk*.json
+backend/public/*
+!backend/public/email-template/
+.gradle/
+.cxx/
+Pods/
+*.log
+.idea/
