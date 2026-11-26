@@ -24,21 +24,17 @@ I worked on this as part of a team. This repo is a cleaned copy: the name is cha
 
 ### Screens
 
-| Sign in | People nearby | Groups |
+| People nearby | Groups | Events |
 |---|---|---|
-| <img src="docs/screenshots/app-login.png" width="230" alt="Sign in"> | <img src="docs/screenshots/app-people.png" width="230" alt="People nearby"> | <img src="docs/screenshots/app-groups.png" width="230" alt="Groups"> |
+| <img src="docs/screenshots/app-people.png" width="230" alt="People nearby"> | <img src="docs/screenshots/app-groups.png" width="230" alt="Groups"> | <img src="docs/screenshots/app-events.png" width="230" alt="Events"> |
 
-| Events | Event details | Group details |
+| Event details | Group details | A profile |
 |---|---|---|
-| <img src="docs/screenshots/app-events.png" width="230" alt="Events"> | <img src="docs/screenshots/app-event.png" width="230" alt="Event details"> | <img src="docs/screenshots/app-group.png" width="230" alt="Group details"> |
+| <img src="docs/screenshots/app-event.png" width="230" alt="Event details"> | <img src="docs/screenshots/app-group.png" width="230" alt="Group details"> | <img src="docs/screenshots/app-person.png" width="230" alt="A profile"> |
 
-| A profile | My profile | Chats |
+| My profile | Chats | Conversation |
 |---|---|---|
-| <img src="docs/screenshots/app-person.png" width="230" alt="A profile"> | <img src="docs/screenshots/app-profile.png" width="230" alt="My profile"> | <img src="docs/screenshots/app-chats.png" width="230" alt="Chats"> |
-
-| Conversation |
-|---|
-| <img src="docs/screenshots/app-conversation.png" width="230" alt="Conversation"> |
+| <img src="docs/screenshots/app-profile.png" width="230" alt="My profile"> | <img src="docs/screenshots/app-chats.png" width="230" alt="Chats"> | <img src="docs/screenshots/app-conversation.png" width="230" alt="Conversation"> |
 
 Taken on an Android 9 phone against a local backend. The people are made-up demo accounts and their portraits are stock photos from Unsplash.
 
