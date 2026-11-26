@@ -63,8 +63,8 @@ function getCurrentCoordinates() {
                 enableHighAccuracy: true,
                 timeout: 12000,
                 maximumAge: 0,
-                forceRequestLocation: true,
-                showLocationDialog: true,
+                forceRequestLocation: false,
+                showLocationDialog: false,
             },
         );
     });

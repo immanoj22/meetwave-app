@@ -59,7 +59,7 @@ const ChatSchema = new Schema({
     //     default: false        
     // },
 }, { timestamps: true, });
-const ChatModel = mongoose.model("Instance", ChatSchema, "Instance")
 ChatSchema.index({ chatName: 1 });
 ChatSchema.index({ location: "2dsphere" });
+const ChatModel = mongoose.model("Instance", ChatSchema, "Instance")
 export default ChatModel;

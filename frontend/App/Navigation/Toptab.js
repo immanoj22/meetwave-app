@@ -712,6 +712,8 @@ const styles = StyleSheet.create({
         height: "100%",
         backgroundColor: "transparent",
         zIndex: 2,
+        // Android: stay above the pill, which has its own elevation.
+        elevation: 4,
     },
     tabLabel: {
         // Keep fontFamily stable to avoid jank during swipe gestures.

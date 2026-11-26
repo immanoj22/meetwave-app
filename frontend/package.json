@@ -52,6 +52,7 @@
     "metro-config": "^0.83.3",
     "metro-resolver": "^0.83.3",
     "react": "19.1.1",
+    "i18next": "^27.2.9",
     "react-i18next": "^16.5.0",
     "react-native": "0.82.1",
     "react-native-branch": "^6.9.0",
